@@ -1,6 +1,6 @@
 {
   "name": "gta-6-for-android-apk",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "download gta 6 for android apk mobile phone working obb",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gta6newshub/npmpackage.git"
+    "url": "git+https://github.com/gta6newshub/gta-6-for-android-apk.git"
   },
   "keywords": [
     "gta 6 for android",
@@ -28,7 +28,7 @@
   "author": "gta 6 android apk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gta6newshub/npmpackage/issues"
+    "url": "https://github.com/gta6newshub/gta-6-for-android-apk/issues"
   },
   "homepage": "https://www.gta6newshub.com/news/gta-6-for-android-apk-mobile-beta",
   "urls": {
